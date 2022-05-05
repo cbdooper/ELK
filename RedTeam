@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T03:00:50.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.0" etag="pW-lLxJ4wPNvhXMYrhR4" type="github"><diagram id="cXy-cpOzzK8eaLRdp2tL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-05T03:16:14.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NvI_5qXccw1KgPEfLm6X" version="18.0.0" type="github">
+  <diagram id="cXy-cpOzzK8eaLRdp2tL" name="Page-1">
+    <mxGraphModel dx="2094" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rsKvEEbzeXFlZZL21ITs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="rsKvEEbzeXFlZZL21ITs-1" target="rsKvEEbzeXFlZZL21ITs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rsKvEEbzeXFlZZL21ITs-1" value="ELK_vNet" style="aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rsKvEEbzeXFlZZL21ITs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="rsKvEEbzeXFlZZL21ITs-2" target="rsKvEEbzeXFlZZL21ITs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rsKvEEbzeXFlZZL21ITs-2" value="RedTeamV2-vnet" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="80" width="400" height="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
