@@ -34,9 +34,9 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Name                 | Function | IP Address | Operating System |
 |----------------------|----------|------------|------------------|
 | Jump Box Provisioner | Gateway  |            | Linux            |
-| Web-2                | DVWA     |            |                  |
-| Web-3                | DVWA     |            |                  |
-| Web-4                | DVWA     |            |                  |
+| Web-2                | DVWA     |            | Linux            |
+| Web-3                | DVWA     |            | Linux            |
+| Web-4                | DVWA     |            | Linux            |
 
 ### Access Policies
 
