@@ -45,10 +45,10 @@
         state: started
         restart_policy: always
         # Please list the ports that ELK runs on
-	published_ports:
-	  - "5601:5601"
-	  - "9200:9200"
-	  - "5044:5044"
+        published_ports:
+          - "5601:5601"
+          - "9200:9200"
+          - "5044:5044"
 
       # Use systemd module
     - name: Enable service docker on boot
