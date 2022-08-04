@@ -76,9 +76,9 @@ The following screenshot displays the result of running `docker ps` after succes
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
-- 10.1.0.5
-- 10.1.0.6
-- 10.1.0.8
+- Web-2 | 10.1.0.5
+- Web-3 | 10.1.0.6
+- Web-4 | 10.1.0.8
 
 We have installed the following Beats on these machines:
 - _TODO: Specify which Beats you successfully installed_
