@@ -83,7 +83,7 @@ This ELK server is configured to monitor the following machines:
 We have installed the following Beats on these machines:
 - These machines contain:
   - Filebeat 
-    ![path](Images/module status.png)
+![path](Images/module status.png)
   - Metricbeat
 
 These Beats allow us to collect the following information from each machine:
