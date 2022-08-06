@@ -29,7 +29,6 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - Metricbeat records the metrics and statistics of the machine that it is deployed on, forwarding this information to Kibana.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name                 | Function | IP Address | Operating System |
 |----------------------|----------|------------|------------------|
